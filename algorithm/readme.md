@@ -1,3 +1,3 @@
-#study for algorithm
+# study for algorithm
 
-my personal repository
+*my personal repository
